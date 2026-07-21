@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6w0056/d/v1/juan/0
 seq: 0
-front:
+body:
   text: 𡨋樞會要序晦堂老人以善權方便接物利生隨機淺深應病與藥雖九流異習辨劇連環折伏慢幢渙然冰釋故名公巨人宰官居士以見晚為恨唱導之暇取宗鏡録揔括精微綴為一集命之曰𡨋樞會要學者簡而易覽助發上機默契正宗不墮邪見可謂因風吹火融入光明藏中心法雙忘凡聖平等一薄伽梵門人普燈以是鏤板謁豫為序因筆三昧少助讚揚滎陽興嗣述凡遇標起處是宗鏡録中卷軸板數如欲廣覽請自尋檢本文
   hash: sha256:cbddcf682712b92346d0660c333017fb1a39d6cd95a93e62768d5d86218e9e27
   markers:
   - {type: 序, offset: 0, content: 序, id: KR6w0056_D_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 冥樞會要
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/D/D56/D56n8980.xml
     old_id: D56n8980
-hash: sha256:0f7b55a0374a0c37ff6ad7cfa3c5a512efe4a328968255ac3ed377fb26bc7234
+hash: sha256:b468a509380a475710e5c3aa5bc8f93a012ccee2c00a8920c5f6f1a0b181b502

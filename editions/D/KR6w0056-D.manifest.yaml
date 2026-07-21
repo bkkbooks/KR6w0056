@@ -19,12 +19,12 @@ metadata:
     short: D
 assets:
   parts:
-  - {seq: 0, filename: KR6w0056_000-D.yaml, hash: 'sha256:ffdd90a322459c5b068bbd97ef07567439a0fff4edf1561e16dde859c0700f81'}
+  - {seq: 0, filename: KR6w0056_000-D.yaml, hash: 'sha256:30742558f1f19f381dd316c3c0c4fe6cbc4f5195ba0615c890a1de4a1cb2f113'}
   - {seq: 1, filename: KR6w0056_001-D.yaml, hash: 'sha256:ee1f4acbe3be28c942ffb003af5b1fd42a1b6d945e784c00fd62483904409b59'}
   - {seq: 2, filename: KR6w0056_002-D.yaml, hash: 'sha256:418a173c12b4b8dc900ef8a9e2c91c959c29eb05fa0e873e17093b31f9ce41ee'}
   - {seq: 3, filename: KR6w0056_003-D.yaml, hash: 'sha256:edb2ed142c930491e39ac73068c4148cd210dd43a3d873cb25b79af1d0796ded'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6w0056_000-D.markers.yaml, hash: 'sha256:22bc6ff64f4b3aff67a2a170b9e6c35b0f527db37b6570f086141b8578e3480c'}
+  - {seq: 0, role: markers, filename: assets/KR6w0056_000-D.markers.yaml, hash: 'sha256:f28dae994dd0b9240e0e1c01d1f2036015c713444cad5224130252741e9082d7'}
   - {seq: 1, role: markers, filename: assets/KR6w0056_001-D.markers.yaml, hash: 'sha256:e790f07bc117ae2dbc5d0350a70d51f1888886b9eeffbf2c1ad155bb94602ddb'}
   - {seq: 2, role: markers, filename: assets/KR6w0056_002-D.markers.yaml, hash: 'sha256:ac1d8dc78d97c27d95d71f0fdce2d966e9dd780dc21e391919873d5be8342449'}
   - {seq: 3, role: markers, filename: assets/KR6w0056_003-D.markers.yaml, hash: 'sha256:8501089e5540cf2d10456959a9927e6aad04afc582babb47999ebaa8da91dcf8'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0056_D_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -4649,4 +4649,4 @@ table_of_contents:
   label: 宗建記
   type: mulu
   level: 1
-hash: sha256:0b683be188c2ee86373ec53edd0c0e70d855eec6c86377b458a9c7db6c87395f
+hash: sha256:fa1f9d4ec632281c1ee3f3285fb3dd2faa71af778aad374891cb87936c77f745
